@@ -1,2 +1,3 @@
 config:
-  secret: SuperSecret
+  aws_access_key_id: ASIA4SFNVVLALJZWTTWJ
+  aws_secret_access_key: GIFoLKpIlaqaef45pCpbx0cUUWX2wOomBFeueGdS
